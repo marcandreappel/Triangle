@@ -14,7 +14,7 @@ class Triangle {
      * @param value Depending on
      */
     constructor(value) {
-        this.value = value;
+        this.value = parseFloat(value);
     }
 
     get height() {
