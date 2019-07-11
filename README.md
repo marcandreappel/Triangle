@@ -5,7 +5,7 @@ Triangle handling ES6 class
 ## Loading
 
 ```
-    //cdn.jsdelivr.net/npm/@appel-solutions/trianglejs@1.0.1/Triangle.js
+    //cdn.jsdelivr.net/npm/@appel-solutions/trianglejs/Triangle.min.js
 ```
 
 ## Examples
