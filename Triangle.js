@@ -9,8 +9,6 @@
 
 class Triangle {
 
-    #value;
-
     /**
      * @constructor
      * @param value Depending on
