@@ -1,0 +1,23 @@
+{
+  "name": "trianglejs",
+  "version": "1.0.0",
+  "description": "A simple triangle calculating class",
+  "main": "Triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcandreappel/Triangle.git"
+  },
+  "keywords": [
+    "triangle",
+    "math"
+  ],
+  "author": "Marc-André Appel <marc-andre@appel.fun>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcandreappel/Triangle/issues"
+  },
+  "homepage": "https://github.com/marcandreappel/Triangle#readme"
+}
