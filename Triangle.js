@@ -54,3 +54,10 @@ class Triangle {
         return Math.round(((this.value ** 2) * Math.sqrt(3) / 4));
     }
 }
+
+/**
+ * Be able to require it
+ *
+ * @type {Triangle}
+ */
+module.exports = Triangle;
