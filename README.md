@@ -1,6 +1,9 @@
 # Triangle
 
-Triangle handling ES6 class
+![Travis CI](https://img.shields.io/travis/marcandreappel/Triangle.svg?style=flat-square)
+![Scrutinizer code coverage](https://img.shields.io/scrutinizer/quality/g/marcandreappel/Triangle.svg?style=flat-square)
+
+Triangle handling ES6 class.
 
 ## Loading
 
